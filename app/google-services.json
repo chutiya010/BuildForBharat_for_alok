@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "513110952541",
+    "firebase_url": "https://buildforbharat-3cd34-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buildforbharat-3cd34",
+    "storage_bucket": "buildforbharat-3cd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513110952541:android:d0939a1ed33a7aff105bb4",
+        "android_client_info": {
+          "package_name": "com.example.buildforbharat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAniUVyWbyUmtEAWqYO1agKjBqeKvO02OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
