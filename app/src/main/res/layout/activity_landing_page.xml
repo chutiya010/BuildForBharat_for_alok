@@ -39,7 +39,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:padding="10dp"
-                android:background="#FFF00D"
+                android:background="@color/black"
                 android:layout_margin="20dp"
                 android:layout_gravity="center_horizontal"
                 >
@@ -51,7 +51,7 @@
                     android:layout_height="wrap_content"
                     android:text = "MERCHANT"
                     android:foregroundGravity="center"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="40dp"/>
             </LinearLayout>
             <LinearLayout
@@ -62,7 +62,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:padding="10dp"
-                android:background="#FFF00D"
+                android:background="@color/black"
 
 
                 >
@@ -73,7 +73,7 @@
                     android:layout_height="wrap_content"
                     android:text = "CUSTOMER"
                     android:textSize="40dp"
-                    android:textColor="@color/black"/>
+                    android:textColor="@color/white"/>
             </LinearLayout>
 
         </LinearLayout>
